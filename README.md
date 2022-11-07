@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fs17006
+- 👋 Hi, I’m Fernando Flores
 - 👀 I’m interested in web desing
 - 🌱 I’m currently learning node.js and express
 - 💞️ I’m looking to collaborate on create a shopping page
